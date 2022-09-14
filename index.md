@@ -15,12 +15,12 @@ console.log('Welkom Code Café student.');
 console.log('Kom naar het Code Café');
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Voor meer details zie [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Jekyll Themes
+## Jekyll Themas
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/het-code-cafe/webpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Uw Pages site gebruikt de layout en stijlen van het Jekyll thema dat u hebt geselecteerd in uw [repository settings](https://github.com/het-code-cafe/webpage/settings/pages). De naam van dit thema wordt opgeslagen in het Jekyll `_config.yml` configuratiebestand.
 
-## Support or Contact
+## Ondersteuning of contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Heeft u problemen met Pages? Bekijk onze [documentatie](https://docs.github.com/categories/github-pages-basics/) of [contact support](https://support.github.com/contact) en we helpen je verder uitzoeken.
