@@ -6,9 +6,9 @@ Kom met ons naar het Code Café!
 
 ## Docenten
 
-Rinse is een steen goede docent!
+Rinse is een kei goede docent!
 
-Maurice is kei goed in Javascript!
+Maurice is steen goed in Javascript!
 
 ```javascript
 console.log('Kom naar het Code Café');
